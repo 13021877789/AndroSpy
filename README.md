@@ -5,6 +5,10 @@ An Android RAT that written in completely C# by me (qH0sT a.k.a Sagopa K)
 
 Yes, It is supporting dns connection like no-ip or duckdns or dynu......  
 
+Your Visual Studio must have Xamarin Develping Kit, otherwise you can not build client. If you have Xamarin Kit then you must put path of some .exe in Settings window of AndroSpy;  
+
+<img src="https://user-images.githubusercontent.com/45147475/106613671-84e64b80-657b-11eb-9292-395db14850ea.PNG" width="30%"></img>  
+
 I'm very busy; I can't answer immediately for your issue.  
 
 +How can I build a Client?  
